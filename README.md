@@ -1,4 +1,4 @@
-## Approximation of aggregate curves in the electricity market relying on node selection
+# Approximation of aggregate curves in the electricity market relying on node selection
 
 **Purpose** - Propose an approximation procedure to efficiently represent aggregate supply and demand curves in the electricity market. 
 
@@ -11,3 +11,6 @@
 **Practical implications** The proposed procedures will allow the development of efficient methods for forecasting supply and demand curves and, consequently, market clearing prices. Having these forecasts is of interest to both producers and consumers.
 
 **keywords:** Functional approximation; aggregate curve; electricity market
+
+## About the data
+The dataset is published on the open science platform, Zenodo, at https://zenodo.org/records/14558660. Overcoming the limitation of Github on uploaded files falls out of our research scope:)
