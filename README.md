@@ -13,4 +13,4 @@
 **keywords:** Functional approximation; aggregate curve; electricity market
 
 ## About the data
-The dataset is published on the open science platform, Zenodo, at https://zenodo.org/records/14558660. Overcoming the limitation of Github on uploaded files falls out of our research scope:)
+The dataset is published on the open science platform, Zenodo, at https://zenodo.org/records/14558660. Overcoming the limitation of Github on the size of files falls out of our research scope:)
