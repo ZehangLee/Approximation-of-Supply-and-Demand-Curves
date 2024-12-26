@@ -1,3 +1,5 @@
+## Approximation of aggregate curves in the electricity market relying on node selection
+
 **Purpose** - Propose an approximation procedure to efficiently represent aggregate supply and demand curves in the electricity market. 
 
 **Design/methodology/approach** - Two approximation procedures based on one-step functions are designed using the $\mathcal{L}_1$ and $\mathcal{L}_2$ metrics as error measures. For the metric $\mathcal{L}_2$ a closed-form solution is obtained to reduce the global error over the entire domain. For the metric $\mathcal{L}_1$, which lacks a closed-form solution, a linear programming problem is solved to improve the local approximation within intervals defined by the nodes. The dependence on the node locations is addressed by different node selection strategies. In particular, a heuristic strategy is proposed that combines descriptive information from the offers with a dyadic search procedure to minimize the approximation error.
